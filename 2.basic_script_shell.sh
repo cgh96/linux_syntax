@@ -7,6 +7,7 @@
 # file2.txt파일은 이름을 file2_rename.txt로 변경
 # 터미널 창에서 "script practice1 complete" 출력
 echo "script practice1 start"
+cd
 mkdir mydir
 cd ./mydir
 touch file1.txt file2.txt
